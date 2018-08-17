@@ -81,10 +81,6 @@ DATABASES = {
         'PASSWORD': 'misoft168',
         'HOST': 'minidesk',
         'PORT': '16866',
-
-        # 'OPTIONS': {
-        #     'driver': 'ODBC Driver 13 for SQL Server',
-        # },
     },
 }
 
