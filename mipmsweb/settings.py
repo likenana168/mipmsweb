@@ -42,7 +42,7 @@ INSTALLED_APPS = [
 	'mihr_plan', 
 	'mihr_relate', 
 	'mihr_train', 
-	'mihr_wage',  
+	'mihr_wage', 
 ]
 
 MIDDLEWARE = [
