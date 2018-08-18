@@ -37,6 +37,12 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+	'mihr_jobs', 
+	'mihr_kpi', 
+	'mihr_plan', 
+	'mihr_relate', 
+	'mihr_train', 
+	'mihr_wage', 
 ]
 
 MIDDLEWARE = [
